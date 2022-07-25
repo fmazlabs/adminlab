@@ -1,0 +1,7 @@
+harnessApiVersion: '1.0'
+type: GIT
+keyAuth: false
+password: safeharness:DBBjYGYBRy-JE1qLujR_rA
+url: https://github.com/yamaguchim/adminlab
+urlType: REPO
+username: yamaguchim
